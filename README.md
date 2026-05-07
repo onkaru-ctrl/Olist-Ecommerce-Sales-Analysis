@@ -57,3 +57,7 @@ The dataset contains information related to customers, orders, payments, product
 ## Author
 Onkar Damare  
 Power BI & Data Analytics Enthusiast
+
+
+## Download Power BI Dashboard
+https://drive.google.com/file/d/14-axjQcP-vKDhiTGkPHtmULe6b_ne4us/view?usp=sharing
